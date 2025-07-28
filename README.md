@@ -64,7 +64,6 @@ python mentimeter.py
 Enter the base URL when prompted (or paste it directly in the code as instructed).
 
 ---
-
 📦 Dependencies
 requests
 
@@ -74,21 +73,24 @@ img2pdf (or alternative like fpdf)
 
 Install them using the requirements.txt.
 
----
-
 📂 Output
 All slide images will be saved in the current directory.
 
 The final presentation.pdf will contain all slides in order.
----
+
 ⚠️ Disclaimer
 This tool is intended for educational and personal use only. Do not use it to infringe on copyright or terms of service. Always respect content ownership and intellectual property.
----
+
 ✨ Contributions
 Feel free to fork and improve the tool. Pull requests are welcome!
----
+
 📧 Contact
 Created by Girish Pawar
 Email | LinkedIn (optional)
+
+yaml
+Copy
+Edit
+
 ---
 
