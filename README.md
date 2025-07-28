@@ -92,11 +92,3 @@ Created by Girish Pawar
 Email | LinkedIn (optional)
 ---
 
-
-
-
-
-
-✅ Recommended:
-Project Name: MentiSnatch
-Why? It’s short, clear, catchy, and indicates you're "snatching" or grabbing Mentimeter content.
