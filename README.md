@@ -63,6 +63,8 @@ Edit
 python mentimeter.py
 Enter the base URL when prompted (or paste it directly in the code as instructed).
 
+---
+
 📦 Dependencies
 requests
 
@@ -72,69 +74,28 @@ img2pdf (or alternative like fpdf)
 
 Install them using the requirements.txt.
 
+---
+
 📂 Output
 All slide images will be saved in the current directory.
 
 The final presentation.pdf will contain all slides in order.
-
+---
 ⚠️ Disclaimer
 This tool is intended for educational and personal use only. Do not use it to infringe on copyright or terms of service. Always respect content ownership and intellectual property.
-
+---
 ✨ Contributions
 Feel free to fork and improve the tool. Pull requests are welcome!
-
+---
 📧 Contact
 Created by Girish Pawar
 Email | LinkedIn (optional)
-
-yaml
-Copy
-Edit
-
 ---
 
-Let me know if you'd like to include example screenshots, error handling tips, or command-line options in the README as well.
 
 
 
 
-
-
-
-You said:
-Give me a prject name
-
-
-ChatGPT said:
-Here are a few creative and relevant project name suggestions for your Mentimeter downloader:
-
-🔧 Technical / Functional Names
-MentiSnatch
-
-Mentimeter Slide Saver
-
-MentiGrab
-
-SlideMinder
-
-MentiFetch
-
-MentiPDF
-
-Mentimeter Downloader
-
-Mentisave
-
-🎨 Creative / Fun Names
-Mentimancer – (like a magician extracting slides)
-
-SlideThief
-
-SpectaMentor – (Spectate + Mentimeter)
-
-EchoSlides
-
-Mentiphract – (Inspired by reconstructing fragments)
 
 ✅ Recommended:
 Project Name: MentiSnatch
